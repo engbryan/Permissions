@@ -32,3 +32,7 @@ http://odata.github.io/RESTier/
 
 Documentação do RESTier no ODATA.ORG
 https://www.odata.org/blog/restier-a-turn-key-framework-to-build-restful-service/
+
+# Necessidade
+Mais detalhes no construtor da classe NorthwindApi no arquivo ./Core/NorthwindApi.cs
+
