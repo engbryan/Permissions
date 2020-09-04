@@ -6,8 +6,10 @@ Está sendo utilizado o RESTier para expôr o EF Context através de API RESTful
 
 # Execução
 Abrir .sln e executar o projeto.
+
 Com o Postman, requisitar RESTful às entidades do banco de dados (Hotel, Address, HotelGroup).
 Exemplo:
+
 GET https://localhost:<porta>/Hotel
 
 POST https://localhost:<porta>/Address
