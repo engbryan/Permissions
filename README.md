@@ -13,8 +13,9 @@ Exemplo:
 GET https://localhost:<porta>/Hotel
 
 POST https://localhost:<porta>/Address
+  
 {
-  <PROPRIEDADES DA ENTIDADE ADDRESS>
+  PROPRIEDADES DA ENTIDADE ADDRESS
 }
 
 DELETE https://localhost:<porta>/Address(1)
